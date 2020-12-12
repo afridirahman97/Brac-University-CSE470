@@ -1,1 +1,1 @@
-# Voice Recognition React News Application (AI Voice Assistant)
+# Voice Command News Application 
